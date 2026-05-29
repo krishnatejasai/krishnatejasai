@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:58A6FF&height=200&section=header&text=Sai%20Sri%20Krishna%20Teja%20Sanku&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:58A6FF&height=200&section=header&text=Sai%20Sri%20Krishna%20Teja%20Sanku&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=MS+CS+Student+@+University+of+Florida;Full+Stack+Developer;React+%7C+Python+%7C+C%2B%2B;Building+Impactful+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=MS+CS+Student+@+University+of+Florida;Full+Stack+Developer;Building+Impactful+Projects" />
 </p>
-
 <p align="center">
   Full Stack Developer • AI/ML Enthusiast • React, Python, C++
 </p>
