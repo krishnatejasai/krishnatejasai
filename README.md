@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Sri Krishna Teja</h1>
+<h1 align="center">Hi 👋, I'm Sai Sri Krishna Teja Sanku</h1>
 <h3 align="center">MS in Computer Science @ University of Florida</h3>
 
 <p align="center">
