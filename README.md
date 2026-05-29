@@ -61,8 +61,8 @@
 
 ## 🤝 Connect With Me
 
-- LinkedIn: (add your LinkedIn link here)
-- Email: (add your professional email)
+- LinkedIn: https://www.linkedin.com/in/sai-sri-krishna-teja-sanku-8092a6214/
+- Email: krishnatejasaii@gmail.com
 
 ---
 
