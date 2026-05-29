@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sai Sri Krishna Teja Sanku</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:58A6FF&height=200&section=header&text=Sai%20Sri%20Krishna%20Teja&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:58A6FF&height=200&section=header&text=Sai%20Sri%20Krishna%20Teja%20Sanku&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
