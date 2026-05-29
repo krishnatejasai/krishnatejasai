@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Sri Krishna Teja Sanku</h1>
-<h3 align="center">MS in Computer Science @ University of Florida</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=MS+CS+Student+@+University+of+Florida;Full+Stack+Developer;AI%2FML+Enthusiast;React+%7C+Python+%7C+C%2B%2B;Building+Impactful+Projects" />
+</p>
 
 <p align="center">
   Full Stack Developer • AI/ML Enthusiast • Problem Solver
