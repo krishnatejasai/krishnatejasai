@@ -14,8 +14,8 @@
 - 🎓 M.S. in Computer Science at the **University of Florida**
 - 💻 Interested in **Software Engineering, Machine Learning, Information Retrieval, and AI Systems**
 - 🔬 Building research-oriented and production-ready applications using modern AI and full-stack technologies
-- 🚀 Passionate about designing scalable software, Retrieval-Augmented Generation (RAG), and Computer Vision systems
-- 🎯 Currently seeking **Software Engineering, TA, and Research Assistant opportunities**
+- 🚀 Passionate about designing scalable software systems
+- 🎯 Currently seeking **Software Engineering and Research Assistant opportunities**
 
 ---
 
