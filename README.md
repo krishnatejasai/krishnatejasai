@@ -1,51 +1,61 @@
 <h1 align="center">Hi 👋, I'm Sai Sri Krishna Teja</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=MS+CS+Student+at+University+of+Florida;Full+Stack+Developer;Building+Impactful+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=MS+CS+Student+at+University+of+Florida;Full+Stack+Developer;AI/ML Enthusiast;Building+Impactful+Projects" />
 </p>
 <p align="center">
-  Full Stack Developer • AI/ML Enthusiast • React, Python, C++
+  Full Stack Developer • Machine Learning
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing MS in Computer Science at University of Florida
-- 💻 Passionate about Software Engineering, AI/ML, and scalable applications
-- 🌱 Currently improving my Data Structures & Algorithms skills
-- ⚡ Building projects in React, Python, Java, and C++
-- 🎬 Interested in technology, filmmaking, and content creation
+- 🎓 M.S. in Computer Science at the **University of Florida**
+- 💻 Interested in **Software Engineering, Machine Learning, Information Retrieval, and AI Systems**
+- 🔬 Building research-oriented and production-ready applications using modern AI and full-stack technologies
+- 🚀 Passionate about designing scalable software, Retrieval-Augmented Generation (RAG), and Computer Vision systems
+- 🎯 Currently seeking **Software Engineering, TA, and Research Assistant opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 
-### Web Development
+### Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=for-the-badge&logo=opencv)
+![FAISS](https://img.shields.io/badge/-FAISS-black?style=for-the-badge)
 
-### Tools & Technologies
+### Databases & Tools
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-black?style=for-the-badge&logo=visualstudiocode)
+![AWS](https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws)
 
 ---
 
 ## 📌 Current Focus
 
-- LeetCode & DSA Practice
-- Full Stack Development
-- Machine Learning Fundamentals
-- Building impactful software projects
+- Retrieval-Augmented Generation (RAG)
+- Information Retrieval & NLP
+- Software Engineering
+- Computer Vision
+- Full-Stack AI Applications
 
 ---
 
