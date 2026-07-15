@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sai Sri Krishna Teja</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=MS+Computer+Science+Student+at+University+of+Florida;Software+Engineering+%7C+Machine+Learning;Retrieval-Augmented+Generation+(RAG);Computer+Vision+%7C+Full-Stack+Development" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=900&lines=MS+CS+Student+at+University+of+Florida;Full+Stack+Developer;AI/ML+Enthusiast;Building+Impactful+Projects" />So
 </p>
 <p align="center">
-  Full Stack Developer • Machine Learning
+  Full Stack Development • Machine Learning
 </p>
 
 ---
